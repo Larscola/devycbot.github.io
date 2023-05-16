@@ -1,1 +1,1 @@
-console.log("from script file");
+let tg = window.Telegram.WebApp;
